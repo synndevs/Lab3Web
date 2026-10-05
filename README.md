@@ -1,4 +1,4 @@
-# Praktikum 2: HTML Lanjutan - Pemrograman Web
+# Praktikum 3 : HTML Lanjutan - Pemrograman Web
 
 Repository ini dibuat untuk menyelesaikan tugas Praktikum 3 Pemrograman Web.  
   
